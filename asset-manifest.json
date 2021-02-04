@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clotho/static/css/main.55594bcd.chunk.css",
+    "main.js": "/clotho/static/js/main.42723b15.chunk.js",
+    "main.js.map": "/clotho/static/js/main.42723b15.chunk.js.map",
+    "runtime-main.js": "/clotho/static/js/runtime-main.ba0a92db.js",
+    "runtime-main.js.map": "/clotho/static/js/runtime-main.ba0a92db.js.map",
+    "static/js/2.1c21915f.chunk.js": "/clotho/static/js/2.1c21915f.chunk.js",
+    "static/js/2.1c21915f.chunk.js.map": "/clotho/static/js/2.1c21915f.chunk.js.map",
+    "static/js/3.3bfd6183.chunk.js": "/clotho/static/js/3.3bfd6183.chunk.js",
+    "static/js/3.3bfd6183.chunk.js.map": "/clotho/static/js/3.3bfd6183.chunk.js.map",
+    "index.html": "/clotho/index.html",
+    "static/css/main.55594bcd.chunk.css.map": "/clotho/static/css/main.55594bcd.chunk.css.map",
+    "static/js/2.1c21915f.chunk.js.LICENSE.txt": "/clotho/static/js/2.1c21915f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba0a92db.js",
+    "static/js/2.1c21915f.chunk.js",
+    "static/css/main.55594bcd.chunk.css",
+    "static/js/main.42723b15.chunk.js"
+  ]
+}
